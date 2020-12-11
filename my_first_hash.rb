@@ -1,7 +1,7 @@
 def my_hash
   my_hash = {
     "name" => Ryan Pearce,
-    "height" => 77
+    "hobby" => Gaming
   }
 end
 
