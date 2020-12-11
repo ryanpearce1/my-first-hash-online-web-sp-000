@@ -4,7 +4,6 @@ def my_hash
     "name" => Ryan Pearce,
     "height" => 77
   }
-  puts my_hash
 end
 
 
